@@ -1,0 +1,21 @@
+Team
+====
+	Kingsley Kelly (UCD)
+	David Kernan (DCU Gamessoc)
+	Claire Whitehead (DCU Gamessoc)
+	Craig Gavagan Mac Entee (DCU Gamessoc)
+
+Instructions
+============
+
+	First, you will need python2.7, get it here: http://python.org/download/
+
+	Second, you will need pygame, the graphics library that runs the game. Get it here: http://pygame.org/ftp/pygame-1.9.1.win32-py2.7.msi
+
+	After both of these are installed, you can run the game by running start.py
+
+
+This game has been heavily based on Super Mario Python Beta, available from http://www.pygame.org/project-Super+Mario+Python+Beta-1339-.html
+
+
+This game has been released under the GPL, you should have received a copy of the GPL with this program, if not it is available here: http://www.gnu.org/licenses/gpl-3.0.txt
